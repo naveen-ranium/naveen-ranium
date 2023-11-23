@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **naveen-ranium/naveen-ranium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```yaml
+apiVersion: v27
+kind: Human
+metadata:
+  name: Naveen Kola
+  gender: Male
+  from: India
+  relationshipStatus: single
+```
+---
