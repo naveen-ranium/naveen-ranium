@@ -24,22 +24,6 @@
 
 ---
 
-## 🌟 Highlights & Achievements
-✨ Recipient of **Applause Awards** (June & November) at Deloitte for exceptional contributions.  
-✨ Successfully implemented **Nuxt.js authentication** using Auth0.  
-✨ Designed and built **e-commerce**, **ERP**, and **library management systems** from the ground up.  
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveen-ranium&show_icons=true&theme=radical" alt="Naveen's GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen-ranium&theme=radical" alt="Naveen's GitHub Streak" height="160" />
-</div>
-
----
-
 ## 🎯 What I'm Up To
 💡 Exploring advanced **Laravel** features like **Eloquent relationships** and **testing strategies**.  
 💡 Enhancing UI/UX design skills using **Vue 3** and **Tailwind CSS**.  
